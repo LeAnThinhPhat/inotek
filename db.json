@@ -1,0 +1,39 @@
+{
+  "jobs": [
+      {
+          "title": "IT", 
+          "location": "HCM", 
+          "salary": 200, 
+          "id": "1"},
+          { "title": "Farmer", 
+          "location": "Long An", 
+          "salary": 50, 
+          "id": "2"},
+          { "title": "Doctor", 
+          "location": "Da Nang", 
+          "salary": 180, 
+          "id": "3"},
+          { "title": "Worker", 
+          "location": "Binh Duong", 
+          "salary": 100, 
+          "id": "4"},
+           { "title": "Actor", 
+          "location": "Ha Noi", 
+          "salary": 200, 
+          "id": "5"},
+           { "title": "Marketer", 
+          "location": "Hai Duong", 
+          "salary": 100, 
+          "id": "6"},
+           { "title": "Saler", 
+          "location": "Cao Bang", 
+          "salary": 300, 
+          "id": "7"},
+           { "title": "Security", 
+          "location": "Tay Ninh", 
+          "salary": 200, 
+          "id": "8"}
+          
+  ]
+}
+   
