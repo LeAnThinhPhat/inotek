@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+}
+@mixin btn_orange{
+    border:1px solid #F36F21 ;
+    padding: 15px 35px;
+    font-size: 10px;
+    color: #F36F21;
+}
